@@ -3,7 +3,6 @@
 # Title:        Gatekeeper
 #
 # Description:  Toggle access to the network with the pushbutton 
-# Author:       Hak5
 
 # Set the default network mode (such as NAT or BRIDGE)
 NETWORK_MODE="BRIDGE"
